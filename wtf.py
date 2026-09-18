@@ -18,11 +18,8 @@ import csv
 from typing import Dict
 
 print('''
-\033[1;92m Recoded By THBD
-BiRi_B@B@
-Telegram:https://t.me/termux_hacker_bd
-One line Command:\nsudo python Wifi_Hack/birihack.py -i wlan0 -K\n
-For Help Type:\npython Wifi_Hack/birihack.py --help\033[0m
+\033[1;92m Single line command to fuck anyone WIFI:\nsudo python wps_hack/wtf.py -i wlan0 -K\n
+For Help Type:\npython wps_hack/wtf.py --help\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
