@@ -1063,7 +1063,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(
-        description='OneShotPin 0.0.2 (c) 2017 rofl0r, modded by BiRi_B@B@',
+        description='OneShotPin 0.0.2 (c) 2017 rofl0r, modded by XAU_USD_25',
         epilog='Example: %(prog)s -i wlan0 -b 00:90:4C:C1:AC:21 -K'
         )
 
