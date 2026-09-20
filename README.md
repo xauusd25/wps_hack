@@ -1,4 +1,4 @@
-#A Simple WPS TOOL for Termux
+# A Simple WPS TOOL for Termux
 
 ## 🚀 One click Installation
 ```bash
