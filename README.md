@@ -3,6 +3,6 @@
 
 ## 🚀 One click Installation
 ```bash
-curl -sS https://raw.githubusercontent.com/xauusd25/wps_tool_installer/main/installer.sh | bash
+curl -sS https://raw.githubusercontent.com/xauusd25/wps_hack/main/installer.sh | bash
 
 ```
